@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Capture</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preview">Preview</string>
+    <string name="takePict">Take Picture</string>
+</resources>
